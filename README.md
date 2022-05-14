@@ -5,8 +5,8 @@
 3. Copy .env.example
 4. Rename .env.example to .env
 5. Add database configurations
-6. composer install
-7. php artisan key:generate
-8. php artisan migrate
-9. npm install
-10. php artisan serve
+6. Run composer install
+7. Run php artisan key:generate
+8. Run php artisan migrate
+9. Run npm install
+10. Run php artisan serve
