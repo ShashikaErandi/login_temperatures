@@ -41,6 +41,7 @@
                         <div class="p-6">
                             <div class="flex items-center">
                             @auth
+                            <img src="/img/dashboard.png" alt="" class="logo">
                             <a href="{{ url('/dashboard') }}" class="underline text-gray-900 dark:text-white">Dashboard</a>
                             @else
                             <img src="/img/login.ico" alt="" class="logo">
